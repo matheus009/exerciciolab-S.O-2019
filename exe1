@@ -1,0 +1,8 @@
+#!/bin/bash
+   echo "Qual o seu nome:"
+   read NOME
+   # mostra o valor lido
+   echo “Meu nome e, $NOME”
+mkdir $NOME
+cd $NOME
+touch $ NOME{1,2,3}.txt
